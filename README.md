@@ -147,6 +147,6 @@ Aug 2022 → Jun 2023  Business Operations Assistant @ Picasso Grillz Ltd.
 
 *"I build things that make data useful, systems that work, and conversations that convert."*
 
-![Visitors](https://visitor-badge.liteflabs.io/badge?page_id=Mohammad0904.Mohammad0904)
+![Profile Views](https://komarev.com/ghpvc/?username=Mohammad0904&color=2563EB&style=flat-square&label=Profile+Views)
 
 </div>
